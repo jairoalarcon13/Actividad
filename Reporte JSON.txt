@@ -1,0 +1,27 @@
+[
+  {
+    Id: 1,
+    Nombre: "Alexander",
+    Apellido: "Toscano",
+    Cedula: "90245384",
+    Celular: "3105942683",
+    AsignaturaId:["1","2","3","4"]
+  },
+  
+  {
+    Id: "1",
+    Nombre: "Español"
+  },
+  {
+    Id: "2",
+    Nombre: "Matemáticas"
+  },
+  {
+    Id: "3",
+    Nombre: "Ingles"
+  },
+   {
+    Id: "4",
+    Nombre: "Naturales"
+  }
+  ]
